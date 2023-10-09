@@ -1,0 +1,23 @@
+{
+  "name": "better-react-select",
+  "version": "1.0.0",
+  "description": "A React Select component",
+  "main": "Select.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xalivo/better-react-select.git"
+  },
+  "keywords": [
+    "React",
+    "Select"
+  ],
+  "author": "xalivo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xalivo/better-react-select/issues"
+  },
+  "homepage": "https://github.com/xalivo/better-react-select#readme"
+}
